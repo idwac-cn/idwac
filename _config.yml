@@ -1,11 +1,18 @@
 # Site settings
-title: Freelancer
+title: 'UbiComp 2024 Workshop'
 email: id4ac@outlook.com
 url: https://idwac-cn.github.io/
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: LastName FirstName
+
+
+main_topic: 'Interactive Design for Autistic Children'
+sub_topic: '基于大语言模型（LLM）与物联网(IoT)自闭症儿童交互设计共参的个性化训练： 优势、劣势与挑战
+
+<br><br>The goal of this workshop is to provide a platform for researchers, software and medical practitioners, and designers to share and debate both the pros and cons of applying the Large Language Model (LLM) and Internet of Things (IoT) for diagnosis and personalized training for autistic children and children with special needs. '
+
 
 # Google webmaster tools
 google_verify:
